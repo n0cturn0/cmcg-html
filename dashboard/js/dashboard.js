@@ -220,6 +220,17 @@
       });
       $("#datepicker-popup").datepicker("setDate", "0");
     }
+
+    if ($("#datepicker-popup2").length) {
+      $('#datepicker-popup2').datepicker({
+        enableOnReadonly: true,
+        todayHighlight: true,
+      });
+      $("#datepicker-popup2").datepicker("setDate", "0");
+    }
+
+
+
     if ($("#status-summary").length) {
       var statusSummaryChartCanvas = document.getElementById("status-summary").getContext('2d');;
       var statusData = {
