@@ -53,10 +53,10 @@
         </div>
         <div>
           <a class="navbar-brand brand-logo" href="index.html">
-            <img src="images/logo.svg" alt="logo" />
+          <img src="images/logo.jpeg" alt="logo" />
           </a>
           <a class="navbar-brand brand-logo-mini" href="index.html">
-            <img src="images/logo-mini.svg" alt="logo" />
+          <img src="images/logo.jpeg" alt="logo" />
           </a>
         </div>
       </div>

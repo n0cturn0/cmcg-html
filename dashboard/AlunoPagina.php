@@ -521,7 +521,7 @@
                                 <div class="list align-items-center border-bottom py-2">
                                   <div class="wrapper w-100">
                                     <p class="mb-2 font-weight-medium">
-                                      Change in Directors
+                                      Tema 1 - Redação 1
                                     </p>
                                     <div class="d-flex justify-content-between align-items-center">
                                       <div class="d-flex align-items-center">
@@ -534,7 +534,7 @@
                                 <div class="list align-items-center border-bottom py-2">
                                   <div class="wrapper w-100">
                                     <p class="mb-2 font-weight-medium">
-                                      Other Events
+                                    Tema 2 - Redação 2
                                     </p>
                                     <div class="d-flex justify-content-between align-items-center">
                                       <div class="d-flex align-items-center">
@@ -547,7 +547,7 @@
                                 <div class="list align-items-center border-bottom py-2">
                                   <div class="wrapper w-100">
                                     <p class="mb-2 font-weight-medium">
-                                      Quarterly Report
+                                    Tema 3 - Redação 3
                                     </p>
                                     <div class="d-flex justify-content-between align-items-center">
                                       <div class="d-flex align-items-center">
@@ -560,7 +560,7 @@
                                 <div class="list align-items-center border-bottom py-2">
                                   <div class="wrapper w-100">
                                     <p class="mb-2 font-weight-medium">
-                                      Change in Directors
+                                    Tema 4 - Redação 4
                                     </p>
                                     <div class="d-flex justify-content-between align-items-center">
                                       <div class="d-flex align-items-center">
@@ -574,7 +574,7 @@
                                 <div class="list align-items-center pt-3">
                                   <div class="wrapper w-100">
                                     <p class="mb-0">
-                                      <a href="#" class="fw-bold text-primary">Show all <i class="mdi mdi-arrow-right ms-2"></i></a>
+                                      <a href="#" class="fw-bold text-primary">Ver todas as redações <i class="mdi mdi-arrow-right ms-2"></i></a>
                                     </p>
                                   </div>
                                 </div>
@@ -599,7 +599,7 @@
                                    <!-- <p class="card-subtitle card-subtitle-dash">You have 50+ new requests</p> -->
                                   </div>
                                   <div>
-                                    <button class="btn btn-primary btn-lg text-white mb-0 me-0" type="button"><i class="mdi mdi-account-plus"></i>Enviar sua redação</button>
+                                    <a href="RedacaoUnit.html" class="btn btn-primary btn-lg text-white mb-0 me-0" type="button"><i class="mdi mdi-account-plus"></i>Enviar sua redação</a>
                                   </div>
                                 </div>
                                 <div class="table-responsive  mt-1">
